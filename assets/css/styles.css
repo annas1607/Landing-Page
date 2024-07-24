@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Intro Section with Background Image */
+#intro {
+    background-image: url('https://github.com/annas1607/Landing-Page/blob/main/images/abstractimage.jpg?raw=true');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+#intro .inner {
+    position: relative;
+    z-index: 1;
+}
+
+/* Additional Styles */
